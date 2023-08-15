@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhayon1&show_icons=true&locale=en" alt="danielhayon1" /></p>
 
-![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/b4c21e5c-c4bd-4816-92c4-fb630f0cf445)
+
