@@ -1,4 +1,4 @@
-![logo](https://github.com/DanielHayon1/DanielHayon1/tree/main#:~:text=Commit%20time-,Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Daniel hayon</h1>
 <h3 align="center">A passionate Computer Science Student from Israel</h3>
 
