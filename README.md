@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Daniel hayon</h1>
 <h3 align="center">A passionate Computer Science Student from Israel</h3>
 
