@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel hayon</h1>
 <h3 align="center">A passionate Computer Science Student from Israel</h3>
 
-<img align= "right" alt ="coding" width ="400" src = "![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/4eebf49d-6023-4f1b-9ece-c731fc5435d4)
-"
+<img align= "right" alt ="coding" width ="400" src = " https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhayon1&label=Profile%20views&color=0e75b6&style=flat" alt="danielhayon1" /> </p>
 
 - 📫 How to reach me **danielhayon39@gmail.com**
@@ -22,5 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhayon1&show_icons=true&locale=en" alt="danielhayon1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielhayon1&" alt="danielhayon1" /></p>
-![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/1c72b976-58d1-481f-9081-f04f28e47091)
-
+![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/f59a0702-4277-42b7-905d-10d2642096a0)
