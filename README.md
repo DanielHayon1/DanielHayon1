@@ -3,8 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhayon1&label=Profile%20views&color=0e75b6&style=flat" alt="danielhayon1" /> </p>![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/3a1d4efb-27fe-4dd9-91ac-0f153067be18)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhayon1&label=Profile%20views&color=0e75b6&style=flat" alt="danielhayon1" /> </p>
 
 - 📫 How to reach me **danielhayon39@gmail.com**
 
@@ -22,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhayon1&show_icons=true&locale=en" alt="danielhayon1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielhayon1&" alt="danielhayon1" /></p>
-![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/5f8f2fbf-a481-4d18-ab55-33c455a4a0fa)
+![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/b4c21e5c-c4bd-4816-92c4-fb630f0cf445)
