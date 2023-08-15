@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel hayon</h1>
 <h3 align="center">A passionate Computer Science Student from Israel</h3>
 
-<img align= "right" alt ="coding" width ="400" src = " https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align= "right" alt ="coding" width ="400" src = "![image](https://github.com/DanielHayon1/DanielHayon1/assets/112934708/02c8410b-b166-48dc-a639-38b0d8e718ec)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhayon1&label=Profile%20views&color=0e75b6&style=flat" alt="danielhayon1" /> </p>
 
 - 📫 How to reach me **danielhayon39@gmail.com**
